@@ -1,0 +1,64 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+.cabeçalho
+{
+    background-color:#000000;
+    color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    padding: 24px  0;
+}
+.cabeçalho-imagem
+{
+    width:20%
+}
+.cabeçalho-lista-item
+{
+    display:inline-block; 
+    margin: 0  16px;
+    padding:24px 0;
+    font-size: 24px;
+}
+.empreendedorismo-imagem{
+    width: 25%;
+}
+.empreendedorismo{
+    background-color: black;
+    color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.empreendedorismo-titulo{
+    padding:24px 0;
+}
+.empreendedorismo-conteudo
+{
+    width: 35%;
+}
+.barbearia-imagem{
+    width: 25%;
+}
+.barbearia{
+    background-color:#000000;
+    color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.barbearia-titulo{
+    padding: 24px 0;
+}
+.barbearia-conteudo{
+    width: 35%;
+}
+.rodapé
+{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;}
